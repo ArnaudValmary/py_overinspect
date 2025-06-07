@@ -14,7 +14,7 @@ build-backend = "poetry.core.masonry.api"
 package-mode = true
 repository = "https://github.com/ArnaudValmary/py_dictflat"
 packages = [
-    { include = "py_overinspect", from = "src" },
+    { include = "pyoverinspect", from = "src" },
 ]
 
 [tool.poetry.requires-plugins]
