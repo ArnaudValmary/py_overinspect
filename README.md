@@ -1,4 +1,4 @@
-# dictflat
+# py_overinspect
 
 A Python library to provide some functions over standard "`inspect`" module
 
